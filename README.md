@@ -1,4 +1,4 @@
-# SQL-Shipping
+# Full Stack Shipping Analytics App
 This project is a comprehensive demonstration of full-stack development, showcasing the seamless integration of a PostgreSQL back-end database, HTML and JavaScript front-end, and Python Flask framework. By leveraging these technologies, we have successfully created a robust web application hosted on Heroku.
 
 The primary objective of this project is to provide users with a platform to execute diverse queries and gain insights from the "shipment" dataset. Built upon the star schema, this dataset forms the foundation of our application.
